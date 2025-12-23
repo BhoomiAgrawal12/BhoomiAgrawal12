@@ -4,7 +4,7 @@ I enjoy building useful, reliable software and learning something new every day.
 
 ## About me
 - 🔭 Exploring new ideas through personal projects and open source contributions.
-- 🌱 Always learning—currently focused on strengthening full‑stack skills.
+- 🌱 Always learning—currently focused on strengthening full-stack skills.
 - 💬 Ask me about front-end development, clean code, and collaboration.
 - 🎯 Goal: ship thoughtful, user-friendly experiences.
 
