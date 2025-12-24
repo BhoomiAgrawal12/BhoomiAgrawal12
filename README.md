@@ -64,3 +64,11 @@
 </div>
 
 ###
+<h2 align="left">Github Stats</h2>
+
+###
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhoomiAgrawal12&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhoomiAgrawal12&theme=dark)
+
+---
