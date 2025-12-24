@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖Building and deploying traditional ML models alongside LLM-based systems using embeddings, RAG, and agentic workflows.<br>💤Wants to sleep 8 hours but ends up debugging at 2 AM.<br>👀Pretending this will be a “quick change”</p>
+<p align="left">My experience spans traditional machine learning, computer vision, graph neural networks (GNNs), and generative models such as GANs, along with modern LLM-based systems involving embeddings, RAG pipelines, fine-tuning, and agentic AI workflows.<br> <br>  Currently, I’m interested in MLOps and model deployment with interest in building scalable inference pipelines and production-ready AI services. I enjoy designing backend architectures that connect models, APIs, and data stores into maintainable systems <br> <br> Apart from these, I want to sleep 8 hours but ends up debugging at 2 AM:) </p>
 
 ###
 
@@ -72,3 +72,7 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhoomiAgrawal12&theme=dark)
 
 ---
+###
+<h2 align="left">Fun Fact</h2>
+
+<p>👀Pretending this will be a “quick change”</p>
