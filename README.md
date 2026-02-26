@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My experience spans traditional machine learning, computer vision, graph neural networks (GNNs), and generative models such as GANs, along with modern LLM-based systems involving embeddings, RAG pipelines, fine-tuning, and agentic AI workflows.<br> <br>  Currently, I’m interested in MLOps and model deployment with interest in building scalable inference pipelines and production-ready AI services. I enjoy designing backend architectures that connect models, APIs, and data stores into maintainable systems <br> <br> Apart from these, I want to sleep 8 hours but ends up debugging at 2 AM:) </p>
+<p align="left">My experience spans traditional machine learning, computer vision, graph neural networks (GNNs), and generative models such as GANs, along with modern LLM-based systems involving embeddings, RAG pipelines, fine-tuning, and agentic AI workflows.<br> <br>  Currently, I’m interested in MLOps and AI agents with interest in building scalable inference pipelines and production-ready AI services. I enjoy designing backend architectures that connect models, APIs, and data stores into maintainable systems <br> <br> Apart from these, I want to sleep 8 hours but ends up debugging at 2 AM:) </p>
 
 ###
 
